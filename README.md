@@ -1,4 +1,4 @@
-Digitale Assets für das Corporate Learning Camp 2019 in Koblenz (https://colearn.de/clc19ko).
+Digitale Assets für das Corporate Learning Camp 2019 in Koblenz (https://colearn.de/clc19ko). Die Quelldateien sind im [SVG](https://de.wikipedia.org/wiki/Scalable_Vector_Graphics)-Format und können mit [Vektorgrafik](https://de.wikipedia.org/wiki/Vektorgrafik)-Programmen wie beispielsweise [Inkscape](https://inkscape.org/) bearbeitet werden.
 
 # Badge und Aufkleber
 

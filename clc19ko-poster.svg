@@ -37,8 +37,8 @@
      inkscape:document-units="mm"
      inkscape:current-layer="g4924"
      showgrid="false"
-     inkscape:window-width="1920"
-     inkscape:window-height="1013"
+     inkscape:window-width="2560"
+     inkscape:window-height="1373"
      inkscape:window-x="-9"
      inkscape:window-y="-9"
      inkscape:window-maximized="1"
@@ -82,7 +82,9 @@
          height="847"
          width="600"
          id="rect2332"
-         style="fill:#222222;fill-opacity:1;fill-rule:evenodd;stroke-width:0.75288504" />
+         style="fill:#222222;fill-opacity:1;fill-rule:evenodd;stroke-width:0.75288504"
+         inkscape:export-xdpi="85.332901"
+         inkscape:export-ydpi="85.332901" />
       <rect
          ry="1.9918854"
          rx="1.9918852"
