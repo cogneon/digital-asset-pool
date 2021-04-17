@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg8"
+   inkscape:version="0.92.1 r15371"
+   sodipodi:docname="cogneon-touch-icon.svg">
+  <defs
+     id="defs2" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.57477225"
+     inkscape:cx="134.15385"
+     inkscape:cy="1072.445"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1920"
+     inkscape:window-height="1013"
+     inkscape:window-x="-9"
+     inkscape:window-y="-9"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Ebene 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <g
+       id="background"
+       transform="matrix(0.26458333,0,0,0.26458333,10.474787,16.692857)"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96">
+      <linearGradient
+         id="SVGID_1_"
+         gradientUnits="userSpaceOnUse"
+         x1="71.999496"
+         y1="0"
+         x2="71.999496"
+         y2="144.0005">
+        <stop
+           offset="0"
+           style="stop-color:#FF6600"
+           id="stop4496" />
+        <stop
+           offset="1"
+           style="stop-color:#E14A00"
+           id="stop4498" />
+      </linearGradient>
+      <rect
+         style="fill:url(#SVGID_1_)"
+         y="0"
+         x="0"
+         width="144"
+         height="144"
+         id="rect4501" />
+    </g>
+    <g
+       id="g4663"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96">
+      <path
+         id="path68"
+         style="fill:#ffffff;stroke:none;stroke-width:1.2812537;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:3.86370993;stroke-dasharray:none;stroke-opacity:1"
+         d="m 31.435032,26.940799 c 4.513007,0.84207 6.353684,5.291488 6.353684,8.84078 0,3.56703 -1.804815,8.076109 -6.399724,8.812574 l 0.08288,6.824564 c 8.575779,-0.769178 14.068248,-7.713208 14.068248,-15.678235 0,-8.001911 -5.493438,-14.973904 -14.07261,-15.68827 z"
+         inkscape:connector-curvature="0" />
+      <path
+         id="path72"
+         style="fill:#ffffff;stroke:none;stroke-width:1.2812537;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:3.86370993;stroke-dasharray:none;stroke-opacity:1"
+         d="m 27.995028,20.02895 c -7.756243,0.496759 -11.772149,5.849411 -13.296306,9.600655 -0.902262,2.214823 -1.189269,4.470502 -1.189269,6.480029 0,7.496088 5.349259,14.802485 14.306258,15.34713 l -0.03781,-6.842741 c -4.474283,-0.625481 -6.517203,-4.659029 -6.517203,-8.955496 0,-3.90119 2.221995,-8.077271 6.748861,-8.761298 z"
+         inkscape:connector-curvature="0" />
+    </g>
+  </g>
+</svg>
