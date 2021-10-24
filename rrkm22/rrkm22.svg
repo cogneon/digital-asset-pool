@@ -29,13 +29,13 @@
      inkscape:pagecheckerboard="0"
      showgrid="false"
      width="874px"
-     inkscape:zoom="0.75842615"
-     inkscape:cx="359.95594"
-     inkscape:cy="34.281519"
+     inkscape:zoom="1.2672699"
+     inkscape:cx="276.97335"
+     inkscape:cy="180.70341"
      inkscape:window-width="1440"
-     inkscape:window-height="900"
+     inkscape:window-height="772"
      inkscape:window-x="0"
-     inkscape:window-y="0"
+     inkscape:window-y="25"
      inkscape:window-maximized="0"
      inkscape:current-layer="svg99" />
   <defs
@@ -340,4 +340,15 @@
          fill-rule="evenodd" />
     </g>
   </g>
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-weight:normal;font-size:21.2822px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.532056"
+     x="126.8029"
+     y="90.686882"
+     id="text216"><tspan
+       sodipodi:role="line"
+       id="tspan214"
+       x="126.8029"
+       y="90.686882"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:21.2822px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.532056">U</tspan></text>
 </svg>
