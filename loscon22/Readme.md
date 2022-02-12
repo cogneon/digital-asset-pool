@@ -2,7 +2,7 @@ Dieser Ordner enthält die Ressourcen für die **lernOS Convention 2020** (losco
 
 # Logo
 
-![](/Users/simondueckert/Documents/GitHub/digital-asset-pool/loscon22/loscon22-logo.png)
+![](./loscon22-logo.png)
 
 # Key Visual
 
