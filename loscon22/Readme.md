@@ -6,10 +6,10 @@ Dieser Ordner enthält die Ressourcen für die **lernOS Convention 2020** (losco
 
 # Key Visual
 
-![](/Users/simondueckert/Documents/GitHub/digital-asset-pool/loscon22/loscon22-key-visual.png)
+![](./loscon22-key-visual.png)
 
 # Sticker
 
 Druck erfolgt als gestanzte Sticker über [Stickermule](https://www.stickermule.com/) (300 Stück).
 
-![](/Users/simondueckert/Documents/GitHub/digital-asset-pool/loscon22/loscon22-sticker.png)
+![](./loscon22-sticker.png)
