@@ -43,6 +43,20 @@ Druck erfolgt als gestanzte Sticker über [Stickermule](https://www.stickermule.
       RolleStreamKontrolle-->StreamKontrollPC;
 ```
 
+Planungsstand Equipment:
+
+* PresenterPC: Lenovo X1 Carbon (Simon)?
+* StreamingPC: Lenovo X1 Carbon (Simon) oder NUC?
+* HDMISplitter:
+* HDMIUSBConverter: Elgato Cam Link
+* Funkmikrofon 1/2/3: Sennheiser Handmikrofone
+* Headset 1/2: Beyerdynamic DT297
+* Musikquelle: iPad (Simon)
+* Kamera 1: Canon XA25 auf Stativ mit Fernsteuerung
+* Kamera 2: Panasonic HC X929
+* VideoMixer: ATEM Mini
+* AudioMixer: Zoom L12
+
 # Technik Breakout Räume
 Wir gehen davon aus, dass Session-Owner ihr eigenes **Notebook** mitbringen. Als Freisprecheinrichtung wollen wir [Jabra Speak 510](https://www.jabra.com.de/business/speakerphones/jabra-speak-series/jabra-speak-510##7510-209) und/Oder [EPOS Expand 80](https://www.eposaudio.com/de/de/enterprise/products/expand-80-bluetooth-speakerphone-1000202) verwenden. Für die Funkmikrofone/-empfänger sind [Rode Wireless Go II](https://de.rode.com/Wireless/Wirelessgo) gelpant. Das Funkmikrofon 1 kann beim Session-Owner angeklipst werden, das Funkmikrofon 2 kann in einem Schaumstoffwürfel gesteckt und als Publikumsmikro verwendet werden. Alternativ liegt auch für Funkmikrofon 1 noch ein Schaumstoffwürfel bereit.
 
