@@ -37,7 +37,7 @@ Druck erfolgt als gestanzte Sticker über [Stickermule](https://www.stickermule.
       StreamingPC-->Streamyard;
       Streamyard-->Youtube;
       Youtube-->StreamKontrollPC;
-      RolleVideoregie-->RolleStreamKontrolle;
+      RolleVideoregie-->StreamingPC;
       RolleStreamKontrolle-->StreamKontrollPC;
 ```
 
