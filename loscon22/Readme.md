@@ -25,6 +25,8 @@ Druck erfolgt als gestanzte Sticker über [Stickermule](https://www.stickermule.
       Funkmikrofon1-->AudioMixer;
       Funkmikrofon2-->AudioMixer;
       Funkmikrofon3-->AudioMixer;
+      Headset1-->AudioMixer;
+      Headset2-->AudioMixer;
       Musikquelle-->AudioMixer;
       Kamera1-->VideoMixer;
       Kamera2-->VideoMixer;
@@ -33,7 +35,9 @@ Druck erfolgt als gestanzte Sticker über [Stickermule](https://www.stickermule.
       LAN-->StreamingPC;
       StreamingPC-->Streamyard;
       Streamyard-->Youtube;
-      YouTube-->StreamKontrollPC;
+      Youtube-->StreamKontrollPC;
+      RolleVideoregie-->StreamingPC;
+      RolleStreamKontrolle-->StreamKontrollPC;
 ```
 
 # Technik Breakout Räume
