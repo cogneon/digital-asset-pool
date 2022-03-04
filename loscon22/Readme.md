@@ -29,6 +29,7 @@ Druck erfolgt als gestanzte Sticker über [Stickermule](https://www.stickermule.
       Headset2-->AudioMixer;
       Musikquelle-->AudioMixer;
       Kamera1-->VideoMixer;
+      RolleKameraEngel-->Kamera1;
       Kamera2-->VideoMixer;
       VideoMixer-->StreamingPC;
       AudioMixer-->StreamingPC;
@@ -36,7 +37,9 @@ Druck erfolgt als gestanzte Sticker über [Stickermule](https://www.stickermule.
       StreamingPC-->Streamyard;
       Streamyard-->Youtube;
       Youtube-->StreamKontrollPC;
-      RolleVideoregie-->StreamingPC;
+      Headset1-->RolleVideoregie;
+      Headset2-->RolleVideoregie;
+      RolleVideoregie-->RolleStreamKontrolle;
       RolleStreamKontrolle-->StreamKontrollPC;
 ```
 
