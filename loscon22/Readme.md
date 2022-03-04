@@ -56,7 +56,7 @@ Planungsstand Equipment:
 * AudioMixer: Zoom L12
 
 # Technik Breakout Räume
-Wir gehen davon aus, dass Session-Owner ihr eigenes **Notebook** mitbringen. Als Freisprecheinrichtung wollen wir [Jabra Speak 510](https://www.jabra.com.de/business/speakerphones/jabra-speak-series/jabra-speak-510##7510-209) und/Oder [EPOS Expand 80](https://www.eposaudio.com/de/de/enterprise/products/expand-80-bluetooth-speakerphone-1000202) verwenden. Für die Funkmikrofone/-empfänger sind [Rode Wireless Go II](https://de.rode.com/Wireless/Wirelessgo) gelpant. Das Funkmikrofon 1 kann beim Session-Owner angeklipst werden, das Funkmikrofon 2 kann in einem Schaumstoffwürfel gesteckt und als Publikumsmikro verwendet werden. Alternativ liegt auch für Funkmikrofon 1 noch ein Schaumstoffwürfel bereit.
+Wir gehen davon aus, dass Session-Owner ihr eigenes **Notebook** mitbringen. Das Funkmikrofon 1 kann beim Session-Owner angeklipst werden, das Funkmikrofon 2 kann in einem Schaumstoffwürfel gesteckt und als Publikumsmikro verwendet werden. Alternativ liegt auch für Funkmikrofon 1 noch ein Schaumstoffwürfel bereit.
 
 ```mermaid
   graph TD;
@@ -72,3 +72,8 @@ Wir gehen davon aus, dass Session-Owner ihr eigenes **Notebook** mitbringen. Als
       HDMI-->Notebook;
       USBHub-->Notebook;
 ```
+Planungsstand Equipment:
+* Webcam: [OBSBOT Tiny 4K](https://www.obsbot.com/obsbot-tiny-4k)
+* Freisprecheinrichtung [Jabra Speak 510](https://www.jabra.com.de/business/speakerphones/jabra-speak-series/jabra-speak-510##7510-209) und/oder [EPOS Expand 80](https://www.eposaudio.com/de/de/enterprise/products/expand-80-bluetooth-speakerphone-1000202)
+* Funkmikrofon/-empfänger: [Rode Wireless Go II](https://de.rode.com/Wireless/Wirelessgo)
+* USBHub:
