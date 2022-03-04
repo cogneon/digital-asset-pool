@@ -14,12 +14,17 @@ Druck erfolgt als gestanzte Sticker über [Stickermule](https://www.stickermule.
 
 ![](./loscon22-sticker.png)
 
-! Technik Breakout Räume
+# Technik Breakout Räume
 
 ```mermaid
   graph TD;
-      A-->B;
-      A-->C;
-      B-->D;
-      C-->D;
+      Beamer-->HDMI;
+      Webcam-->USB1;
+      Freisprecheinrichtung-->USB2;
+      Funkmikrofon1-->FunkEmpfänger;
+      Funkmikrofon2-->FunkEmpfänger;
+      Funkempfänger-->USB3;
+      USB1-->USBHub;
+      USB2-->USBHub;
+      USB3-->USBHub;
 ```
