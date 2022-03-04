@@ -13,3 +13,13 @@ Dieser Ordner enthält die Ressourcen für die **lernOS Convention 2020** (losco
 Druck erfolgt als gestanzte Sticker über [Stickermule](https://www.stickermule.com/) (300 Stück).
 
 ![](./loscon22-sticker.png)
+
+! Technik Breakout Räume
+
+```mermaid
+  graph TD;
+      A-->B;
+      A-->C;
+      B-->D;
+      C-->D;
+```
