@@ -77,3 +77,4 @@ Planungsstand Equipment:
 * Freisprecheinrichtung [Jabra Speak 510](https://www.jabra.com.de/business/speakerphones/jabra-speak-series/jabra-speak-510##7510-209) und/oder [EPOS Expand 80](https://www.eposaudio.com/de/de/enterprise/products/expand-80-bluetooth-speakerphone-1000202)
 * Funkmikrofon/-empfänger: [Rode Wireless Go II](https://de.rode.com/Wireless/Wirelessgo)
 * USBHub:
+* Notebook: von Session Owner mitgebracht, Mindestanforderung: HDMI, 1x USB-A
