@@ -17,6 +17,11 @@ Druck erfolgt als gestanzte Sticker über [Stickermule](https://www.stickermule.
 # Technik Bühne
 ```mermaid
   graph TD;
+      PresenterPC-->HDMI;
+      HDMI-->HDMISplitter;
+      HDMISplitter-->Beamer;
+      HDMISplitter-->HDMIUSBConverter;
+      HDMIUSBConverter-->StreamingPC;
       Funkmikrofon1-->AudioMixer;
       Funkmikrofon2-->AudioMixer;
       Funkmikrofon3-->AudioMixer;
@@ -28,6 +33,7 @@ Druck erfolgt als gestanzte Sticker über [Stickermule](https://www.stickermule.
       LAN-->StreamingPC;
       StreamingPC-->Streamyard;
       Streamyard-->Youtube;
+      YouTube-->StreamKontrollPC;
 ```
 
 # Technik Breakout Räume
