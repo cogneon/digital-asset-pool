@@ -52,6 +52,8 @@ Planungsstand Equipment:
 * VideoMixer: ATEM Mini
 * AudioMixer: Zoom L12
 
+Offen: der Beamer muss vom Presenter PC (Folien), aber auch aus der Videoregie (z.B. Teams) bespielt werden können (Bild und Ton). Ansatz: der Beamer im Plenum zeigt das gleiche Bild, wie ... der Stream?
+
 # Technik Breakout Räume
 Wir gehen davon aus, dass Session-Owner ihr eigenes **Notebook** mitbringen. Das Funkmikrofon 1 kann beim Session-Owner angeklipst werden, das Funkmikrofon 2 kann in einem Schaumstoffwürfel gesteckt und als Publikumsmikro verwendet werden. Alternativ liegt auch für Funkmikrofon 1 noch ein Schaumstoffwürfel bereit.
 
