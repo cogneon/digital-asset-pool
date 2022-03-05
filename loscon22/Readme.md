@@ -17,8 +17,7 @@ Druck erfolgt als gestanzte Sticker über [Stickermule](https://www.stickermule.
 # Technik Bühne
 ```mermaid
   graph TD;
-      PresenterPC-->HDMI;
-      HDMI-->HDMISplitter;
+      PresenterPC-->|HDMI|HDMISplitter;
       HDMISplitter-->Beamer;
       HDMISplitter-->HDMIUSBConverter;
       HDMIUSBConverter-->StreamingPC;
@@ -27,15 +26,15 @@ Druck erfolgt als gestanzte Sticker über [Stickermule](https://www.stickermule.
       Funkmikrofon3-->AudioMixer;
       Headset1-->AudioMixer;
       Headset2-->AudioMixer;
-      Musikquelle-->AudioMixer;
-      Kamera1-->VideoMixer;
+      Musikquelle-->|Klinke|AudioMixer;
+      Kamera1-->|HDMI|VideoMixer;
       RolleKameraEngel-->Kamera1;
-      Kamera2-->VideoMixer;
-      VideoMixer-->StreamingPC;
-      AudioMixer-->StreamingPC;
+      Kamera2-->|HDMI|VideoMixer;
+      VideoMixer-->|USB|StreamingPC;
+      AudioMixer-->|USB|StreamingPC;
       LAN-->StreamingPC;
       StreamingPC-->Streamyard;
-      Streamyard-->Youtube;
+      Streamyard-->|RTMP|Youtube;
       Youtube-->StreamKontrollPC;
       RolleVideoregie-->StreamingPC;
       RolleStreamKontrolle-->StreamKontrollPC;
