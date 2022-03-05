@@ -24,8 +24,8 @@ Druck erfolgt als gestanzte Sticker über [Stickermule](https://www.stickermule.
       Funkmikrofon1-->AudioMixer;
       Funkmikrofon2-->AudioMixer;
       Funkmikrofon3-->AudioMixer;
-      Headset1-->AudioMixer;
-      Headset2-->AudioMixer;
+      Headset1-->|XLR|AudioMixer;
+      Headset2-->|XLR|AudioMixer;
       Musikquelle-->|Klinke|AudioMixer;
       Kamera1-->|HDMI|VideoMixer;
       RolleKameraEngel-->Kamera1;
