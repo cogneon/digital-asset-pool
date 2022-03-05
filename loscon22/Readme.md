@@ -19,7 +19,7 @@ Druck erfolgt als gestanzte Sticker über [Stickermule](https://www.stickermule.
   graph TD;
       PresenterPC-->|HDMI|HDMISplitter;
       HDMISplitter-->Beamer;
-      HDMISplitter-->HDMIUSBConverter;
+      HDMISplitter-->VideoMixer;
       HDMIUSBConverter-->StreamingPC;
       Funkmikrofon1-->AudioMixer;
       Funkmikrofon2-->AudioMixer;
