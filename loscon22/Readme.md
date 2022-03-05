@@ -32,7 +32,6 @@ Druck erfolgt als gestanzte Sticker über [Stickermule](https://www.stickermule.
       Kamera2-->|HDMI|VideoMixer;
       VideoMixer-->|USB|StreamingPC;
       AudioMixer-->|USB|StreamingPC;
-      LAN-->StreamingPC;
       StreamingPC-->Streamyard;
       Streamyard-->|RTMP|Youtube;
       Youtube-->StreamKontrollPC;
