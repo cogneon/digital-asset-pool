@@ -60,16 +60,13 @@ Wir gehen davon aus, dass Session-Owner ihr eigenes **Notebook** mitbringen. Das
 
 ```mermaid
   graph TD;
-      Webcam-->USB1;
-      Freisprecheinrichtung-->USB2;
+      Webcam-->|USB|USBHub;
+      Freisprecheinrichtung-->|USB|USBHub;
       Funkmikrofon1-->Funkempfänger;
       Funkmikrofon2-->Funkempfänger;
-      Funkempfänger-->USB3;
-      USB1-->USBHub;
-      USB2-->USBHub;
-      USB3-->USBHub;
+      Funkempfänger-->|USB|USBHub;
       Beamer-->|HDMI|Notebook;
-      USBHub-->Notebook;
+      USBHub-->|USB-A|Notebook;
 ```
 Planungsstand Equipment:
 * Webcam: [OBSBOT Tiny 4K](https://www.obsbot.com/obsbot-tiny-4k)
