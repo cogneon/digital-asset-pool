@@ -60,7 +60,6 @@ Wir gehen davon aus, dass Session-Owner ihr eigenes **Notebook** mitbringen. Das
 
 ```mermaid
   graph TD;
-      Beamer-->HDMI;
       Webcam-->USB1;
       Freisprecheinrichtung-->USB2;
       Funkmikrofon1-->Funkempfänger;
@@ -69,7 +68,7 @@ Wir gehen davon aus, dass Session-Owner ihr eigenes **Notebook** mitbringen. Das
       USB1-->USBHub;
       USB2-->USBHub;
       USB3-->USBHub;
-      HDMI-->Notebook;
+      Beamer-->|HDMI|Notebook;
       USBHub-->Notebook;
 ```
 Planungsstand Equipment:
