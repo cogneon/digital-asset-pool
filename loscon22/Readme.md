@@ -8,6 +8,13 @@ Dieser Ordner enthält die Ressourcen für die **lernOS Convention 2020** (losco
 
 ![](./loscon22-key-visual.png)
 
+# Hintergründe
+Hintergrundgrafiken z.B. für Microsoft Teams im Format 16:9 (1280x720px)
+![](./loscon22-hintergrund-schwarz.png)
+![](./loscon22-hintergrund-yoda.png)
+![](./loscon22-hintergrund-darth-yoda.png)
+![](./loscon22-hintergrund-sturmtruppler.png)
+
 # Sticker
 
 Druck erfolgt als gestanzte Sticker über [Stickermule](https://www.stickermule.com/) (300 Stück).
