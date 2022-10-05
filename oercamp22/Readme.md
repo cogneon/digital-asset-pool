@@ -9,21 +9,23 @@ Dieser Ordner enthält Ressourcen für das [OERCamp 2022](https://www.oercamp.de
 ```mermaid
 graph LR;
       StreamingPC-->Display
-      Netzwerk-->Notebook
-      AudioMixer-->|USB-A|Notebook
+      Netzwerk-->Notebook1
+      AudioMixer-->|USB-A|Notebook1
       Headsets-->AudioMixer
-      Notebook-->ZoomKonferenz
+      Notebook1-->ZoomKonferenz
       AudioMixer-->|XLR|StreamingPC
       KameraBühne-->StreamingPC
       StreamingPC-->ZoomKonferenz
       StreamingPC-->Lautsprecher
       Gäste-->ZoomKonferenz
-      
+      Notebook2-->ZoomKonferenz
 ```
 
 **Materialliste:**
 
-- **PC:** Lenovo X1 Carbon (von Simon, zweiter PC zur Chat-Moderation)
+- **Notebook1:** Lenovo X1 Carbon (von Simon)
+
+- **Notebook2:** Macbook Air M1 (von Simon, Chat-Moderation, WiFi reicht)
 
 - **Display:** cTouch (vor Ort, in Klärung, ob Nutzung möglich)
 
@@ -39,7 +41,7 @@ graph LR;
 
 - **StreamingPC:** Rechner (von equipvent)
 
-
+- **KameraBühne:** Totale der Bühne (von equipvent, Webcam oder Systemkamera z.B. Sony Alpha)
 
 **Sonstiges:**
 
