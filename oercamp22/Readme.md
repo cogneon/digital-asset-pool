@@ -1,4 +1,4 @@
-Dieser Ordner enthält Ressourcen für das [OERCamp 2022](https://www.oercamp.de/22/) (#oercamp22) in Hamburg, speziell die Podcast-Bühne, die im Rahmen eines der Barcamp-Tracks umgesetzt wird.
+Dieser Ordner enthält Ressourcen für das [OERCamp 2022](https://www.oercamp.de/22/) (#oercamp22) in Hamburg, speziell die Podcast-Bühne, die im Rahmen eines der Barcamp-Tracks umgesetzt wird ([Tweet mit Bild vom Raum](https://twitter.com/OERcamp/status/1577669500887089152?s=20&t=Jc7gmpItmXsw9GGt9C49Aw)).
 
 - **Wann:** 24.-26.10.2022 (Podcast-Bühne am 25.10.)
 
