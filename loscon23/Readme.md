@@ -39,3 +39,9 @@ Hintergrundgrafiken z.B. für Microsoft Teams im Format 16:9 (1280x720px)
 # Sticker
 
 Druck erfolgt als gestanzte Sticker über [Stickermule](https://www.stickermule.com/) (300 Stück).
+
+# Trailer
+
+Videotrailer für die Eröffnung der loscon23 mit [Blender](https://www.blender.org/) erstellt.
+
+![](/Users/simondueckert/Documents/GitHub/digital-asset-pool/loscon23/loscon23-trailer-still.png)
