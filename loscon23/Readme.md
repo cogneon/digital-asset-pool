@@ -44,4 +44,4 @@ Druck erfolgt als gestanzte Sticker über [Stickermule](https://www.stickermule.
 
 Videotrailer für die Eröffnung der loscon23 mit [Blender](https://www.blender.org/) erstellt.
 
-![](/Users/simondueckert/Documents/GitHub/digital-asset-pool/loscon23/loscon23-trailer-still.png)
+![](./loscon23-trailer-still.png)
