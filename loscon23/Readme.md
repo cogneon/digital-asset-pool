@@ -45,3 +45,61 @@ Druck erfolgt als gestanzte Sticker über [Stickermule](https://www.stickermule.
 Videotrailer für die Eröffnung der loscon23 mit [Blender](https://www.blender.org/) erstellt.
 
 ![](./loscon23-trailer-still.png)
+
+# Bill of Materials (BOM, Stückliste)
+
+Wir listen hier alles Material, dass wir für das **hybride Setup** der [lernOS Convention 2023](https://cogneon.de/loscon23) verwendet haben, um es anderen möglichst leicht zu machen, unser Setup nachzubauen (Links unten sind teilweise Amazon-Affiliate-Links. Auf der Veranstaltung können dem Orga-Team gerne Fragen zum Setup gestellt werden.
+
+**Bühne:**
+
+* Presenter PC (HP Elitebook G8, in Teams eingewählt)
+
+* Webcam [Logitech C930e](https://amzn.to/3oF9eqR) (weitwinklig, als Blick ins Publikum)
+
+* [Apple Earpods]() mit 3,5mm Klinkenstecker (als Test-Headset)
+
+
+
+**FOH (Front of Hall):**
+
+* Streaming PC (Lenovo X1 Carbon, in Teams eingewählt, OBS vorgeschaltet, präsentiert auf Beamer im Raum)
+
+* USB-Audio-Mischer [Zoom LiveTrak L-8](https://amzn.to/3MMCxzI) (Mastermix auf USB als Mix-Minus, Mix A für die PA im Raum)
+
+* Doppel-Funkstrecke [Sennheiser XSW 1 Dual](https://amzn.to/42d7vXr) (über USB-A an Streaming PC)
+
+* Videomischer [Blackmagic ATEM Mini Pro](https://amzn.to/3MK0WpD) (über USB-A an Streaming PC)
+
+* Kamera 1: Canon XA25 (Close-up Kamera)
+
+* Kamera 2: Panasonic HC-X929 (Totale Bühne)
+
+* Kamera 3: GoPro (Totale Raum)
+
+* Monitore für Streaming PC und Videomischer (2x)
+
+
+
+**Session-/Assembly-Räume (4x):**
+
+Hier setzen wir eine Variante unseres [Hybrid Meeting Kits](https://wiki.cogneon.de) (HMK) ein:
+
+* Room PC (Intel NUC mit Windows 11)
+
+* Webcam [Logitech C930e](https://amzn.to/3oF9eqR)
+
+* Speakerphone [Jabra Speak 510](https://amzn.to/42jqjV3) (als Lautsprecher)
+
+* Funk-Mikrofone [Rode Wireless Go II](https://amzn.to/43xbWNS) (optional in [Schaumstoffwürfeln](https://amzn.to/43zrKjf) als Wurfmikrofon)
+
+
+
+**Vernetzungsinseln (4x):**
+
+* Island PC (Lenovo X200 mit Windows 11, in Discord-Sprachkanal eingewählt)
+
+* Audio-Interface [Zoom PodTrack P4](https://amzn.to/3N3tRp1) (für 3x Headset und 1x Remote-Audio)
+
+* Headset [Beyerdynamic DT 297](https://amzn.to/42b7ZNX)
+
+* 360-Grad-Webcam [Meeting Owl](https://amzn.to/3oFakCZ) (1x Meeting Owl 1, 3x Meeting Owl 3)
