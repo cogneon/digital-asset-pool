@@ -40,66 +40,70 @@ Hintergrundgrafiken z.B. für Microsoft Teams im Format 16:9 (1280x720px)
 
 Druck erfolgt als gestanzte Sticker über [Stickermule](https://www.stickermule.com/) (300 Stück).
 
-# Trailer
+# Stückliste (BOM, Bill of Materials)
 
-Videotrailer für die Eröffnung der loscon23 mit [Blender](https://www.blender.org/) erstellt.
+Die loscon23 BOM listet alle "Dinge", die wir für die Organisation der hybriden Veranstaltung verwendet haben. Sie dient als Vorlage für Zukünftige Veranstaltungen und kann gerne von anderen Organisatior:innen für eigene Veranstaltungen verwendet werden.
 
-![](./loscon23-trailer-still.png)
+## Bühne
 
-# Bill of Materials (BOM, Stückliste)
+**Front of Hall (FOH)**
 
-Wir listen hier alles Material, dass wir für das **hybride Setup** der [lernOS Convention 2023](https://cogneon.de/loscon23) verwendet haben, um es anderen möglichst leicht zu machen, unser Setup nachzubauen (Links unten sind teilweise Amazon-Affiliate-Links. Auf der Veranstaltung können dem Orga-Team gerne Fragen zum Setup gestellt werden.
+- Videomischer ATEM Mini Pro (an Streaming PC)
+  
+  - Kamera 1 Canon XA 25 (Closeup-Kamera)
+  
+  - Kamera 2 Panasonic HC-X929 (Totale Bühne)
+  
+  - Kamera 3 GoPro (Totale Raum von hinten)
+  
+  - Monitor für Videomix-Vorschau
 
-**Bühne:**
+- Audiomischer Zoom LiveTrak L-8 (an Streaming PC)
+  
+  - Funkstrecke Sennheiser XSW1 Dual (1x Handmikrofon, 1x Nachenbügelmikrofon)
+  
+  - Funkstrecke Sennheiser ew100 (mit Handmikrofon)
+  
+  - Mix Master ist Mix Minus (über USB an Streaming PC), Mix A ist unser Master Mix für die PA im Raum (über Stereo Klinke 6,3mm auf XLR auf Mixer Raum)
 
-* Presenter PC (HP Elitebook G8, in Teams eingewählt)
+- Streaming PC Lenovo X1 Carbon
 
-* Webcam [Logitech C930e](https://amzn.to/3oF9eqR) (weitwinklig, als Blick ins Publikum)
+**Bühne**
 
-* [Apple Earpods]() mit 3,5mm Klinkenstecker (als Test-Headset)
+- Presenter PC Lenovo X1 Carbon
 
+- Kamera 4 (Totale Raum von vorne)
 
+- Leinwand
 
-**FOH (Front of Hall):**
+- Kurzdistanz-Beamer (2. Display an der Bühne)
 
-* Streaming PC (Lenovo X1 Carbon, in Teams eingewählt, OBS vorgeschaltet, präsentiert auf Beamer im Raum)
+## Session/Assembly-Räume (4x)
 
-* USB-Audio-Mischer [Zoom LiveTrak L-8](https://amzn.to/3MMCxzI) (Mastermix auf USB als Mix-Minus, Mix A für die PA im Raum)
+[Cogneon Hybrid Meeting Kit](https://wiki.cogneon.de/hmk) mit:
 
-* Doppel-Funkstrecke [Sennheiser XSW 1 Dual](https://amzn.to/42d7vXr) (über USB-A an Streaming PC)
+- Room PC Intel NUC (per HDMI-Kabel an Beamer im Raum)
 
-* Videomischer [Blackmagic ATEM Mini Pro](https://amzn.to/3MK0WpD) (über USB-A an Streaming PC)
+- Kamera Logitech C930e
 
-* Kamera 1: Canon XA25 (Close-up Kamera)
+- Speakerphone Jabra Speak 510 (als Lautsprecher)
 
-* Kamera 2: Panasonic HC-X929 (Totale Bühne)
+- Funkmikrofone Rode Wireless Go II
 
-* Kamera 3: GoPro (Totale Raum)
+- Schaumstoffwürfel für Rode Wireless Go II (2x)
 
-* Monitore für Streaming PC und Videomischer (2x)
+- Handmikrofon-Adapter für Rode Wireless Go II (2x)
 
+## Vernetzungsinseln (4x)
 
+- Podcast PC Lenovo X200 (Win 11)
 
-**Session-/Assembly-Räume (4x):**
+- Audio-Interface Zoom PodTrack P4 (2x), RodeCaster Pro (2x)
 
-Hier setzen wir eine Variante unseres [Hybrid Meeting Kits](https://wiki.cogneon.de) (HMK) ein:
+- Beyerdynamic DT 297 (12x)
 
-* Room PC (Intel NUC mit Windows 11)
+## Infodesk
 
-* Webcam [Logitech C930e](https://amzn.to/3oF9eqR)
+- Infodesk PC
 
-* Speakerphone [Jabra Speak 510](https://amzn.to/42jqjV3) (als Lautsprecher)
-
-* Funk-Mikrofone [Rode Wireless Go II](https://amzn.to/43xbWNS) (optional in [Schaumstoffwürfeln](https://amzn.to/43zrKjf) als Wurfmikrofon)
-
-
-
-**Vernetzungsinseln (4x):**
-
-* Island PC (Lenovo X200 mit Windows 11, in Discord-Sprachkanal eingewählt)
-
-* Audio-Interface [Zoom PodTrack P4](https://amzn.to/3N3tRp1) (für 3x Headset und 1x Remote-Audio)
-
-* Headset [Beyerdynamic DT 297](https://amzn.to/42b7ZNX)
-
-* 360-Grad-Webcam [Meeting Owl](https://amzn.to/3oFakCZ) (1x Meeting Owl 1, 3x Meeting Owl 3)
+- iPod für Einlass (mit Apps [pretixSCAN](https://pretix.eu/about/de/scan) und Discord)
