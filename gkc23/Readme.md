@@ -43,5 +43,9 @@ Die Cogneon Akademie unterstützt das KnowledgeCamp 2023 (#gkc23) mit Equipment 
   * Gorillapod Stativ mit Kugelkopf (45,-)
   
   * 2x Speakerphone Jabra Speak 510 (100,-)
+  
+  * 4x USB Verlängerung 3m (15,-, nicht in der Versicherungssumme)
+  
+  * 2x HDMI-Kabal 10m (nicht in der Versicherungssumme)
 
 Hinweis: die PCs für die HMKs werden nicht mit verschickt, da dafür Mac Minis der Hochschule verwendet werden.
