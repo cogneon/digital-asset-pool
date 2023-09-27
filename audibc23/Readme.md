@@ -1,6 +1,7 @@
  Hybrides Setup für das 8. Zusammenarbeit 2.0 Barcamp bei Audi.
 
-# Bühne
+# Räume
+## Bühne
 Setup mit zwei Kameras und drei (max. 4) Mikrofonen. Auf dem StreamingPC wird [Microsoft Teams](https://wiki.cogneon.de/Microsoft_Teams) für die Videokonferenz eingesetzt. Der Audiomixer2 ist in Teams Mikrofon und Lautsprecher, das VideoUSBInterface die Webcam.
 
 ```mermaid
@@ -22,8 +23,8 @@ graph LR;
 
 **Equipment:**
 
-1. Cam1: [Canon XA25](https://wiki.cogneon.de/Canon_XA25)
-1. Cam2: GoPro 4
+1. Cam1: [Canon XA25](https://wiki.cogneon.de/Canon_XA25) (Close Up)
+1. Cam2: GoPro 4 (Totale Publikum)
 1. Mic1-4: [Sennheiser XSW](https://wiki.cogneon.de/Sennheiser_XSW)
 1. Audiomixer1: Behringer RX1202FX
 1. Audiomixer2: [Yamaha AG06](https://wiki.cogneon.de/Yamaha_AG_Serie)
@@ -32,5 +33,13 @@ graph LR;
 1. StreamingPC: offen
 1. PA: offen
 
-# Breakout-Räume
+## Breakout-Räume
 4x [Hybrid Meeting Kit](https://wiki.cogneon.de/hmk) inkl. NUCs
+
+# Rollen
+- VideoGuide
+- AudioGuide
+- KameraGuide
+- GimbleGuide
+- RoomBuddy (4x)
+- Infodesk (1-3)
