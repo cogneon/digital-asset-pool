@@ -1,7 +1,7 @@
  Hybrides Setup für das 8. Zusammenarbeit 2.0 Barcamp bei Audi.
 
 # Bühne
-Setup mit zwei Kameras und drei (max. 4) Mikrofonen.
+Setup mit zwei Kameras und drei (max. 4) Mikrofonen. Auf dem StreamingPC wird [Microsoft Teams](https://wiki.cogneon.de/Microsoft_Teams) für die Videokonferenz eingesetzt. Der Audiomixer2 ist in Teams Mikrofon und Lautsprecher, das VideoUSBInterface die Webcam.
 
 ```mermaid
 graph LR;
