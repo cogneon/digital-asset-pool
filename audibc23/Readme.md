@@ -11,6 +11,7 @@ graph LR;
     Mic2-->|XLR|Audiomixer1;
     Mic3-->|XLR|Audiomixer1;
     Mic4-->|XLR|Audiomixer1;
+    MusicPlayer-->|Klinke|Audiomixer1;
     Videomixer-->|SDI|VideoUSBInterface;
     VideoUSBInterface-->|USB-A|StreamingPC;
     Audiomixer1-->|???|Audiomixer2
