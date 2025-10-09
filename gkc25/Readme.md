@@ -8,7 +8,7 @@ Dieser Ordner enthält Cogneon-Ressourcen für das [GfWM KnowledgeCamp 2025](htt
 Für die Bühne verwenden wir zwei Kameras, Audio-/Videomixer und zwei Funk-Handmikrofone:
 
 1. Funk-Hand-Mikrofone (2x): Sennheiser XSW Dual (benötigt AA-Batterien) ([Anleitung](https://cloud.cogneon.de/s/wdYQEY7C6ZZHPKP))
-2. Audiomischer: Yamaha AG06, Ausgang USB-A (Kopfhörer 6,3mm Klinke von GfWM) ([Anleitung](https://cloud.cogneon.de/s/bHYqE76EEQxAWoH))
+2. Audiomischer: Yamaha AG06, Ausgang USB-A; (Kopfhörer 6,3mm Klinke von GfWM; über. beigelegtes Miniklinke-Kabel ist Musikzuspielung möglich) ([Anleitung](https://cloud.cogneon.de/s/bHYqE76EEQxAWoH)) -> **WICHTIG:** der USB-Ausgang "TO PC" muss auf "INPUT MIX" stehen, sonst hören die Teilnehmenden sich selbst. Die Lautsprecher werden an "MONITOR OUT" angeschlossen.
 3. Videomischer Blackmagick ATEM Mini, Ausgang USB-C ([Anleitung](https://cloud.cogneon.de/s/5eeZ7TXYaQ3WxFX))
 4. Kamera 1: Panasonic Camcorder HC-X929 ([Anleitung](https://cloud.cogneon.de/s/Pd4NeQtMMZLakH7))
 5. Kamera 2: Action Cam GoPro (alt)
@@ -25,19 +25,19 @@ Für die Bühne verwenden wir zwei Kameras, Audio-/Videomixer und zwei Funk-Hand
 
 ```mermaid
 graph LR;
-      Camcorder-->|HDMI|VideoMixer;
-      WeitwinkelKamera-->|HDMI|VideoMixer;
+      Kamera1-->|HDMI|VideoMixer;
+      Kamera2-->|HDMI|VideoMixer;
       VideoMixer-->|USB|DockingStation;
-      DockingStation-->|USB-C|PC;
-      AudioMixer-->|Klinke 3,5mm|Lautsprecher;
+      DockingStation-->|USB-C|StreamingPC;
+      AudioMixer-->|Klinke2XLR|Lautsprecher1;
+      AudioMixer-->|Klinke2XLR|Lautsprecher2;
       AudioMixer-->|USB|DockingStation;
-      AudioMixer-->|Klinke 3,5mm|Kontrollkopfhörer;
+      AudioMixer-->|Klinke 6,3mm|Kontrollkopfhörer;
       Funkmikrofon1-->Empfänger;
       Funkmikrofon2-->Empfänger;
       Empfänger-->|XLR|AudioMixer;
-      LAN-->DockingStation;
-      StreamDeck-->|USB|DockingStation;
-      DockingStation-->|HDMI|Display;
+      DockingStation-->|HDMI|Beamer;
+      Musikzuspieler-->|Miniklinke|AudioMixer;
 ```
 
 # Weiterführende Links
