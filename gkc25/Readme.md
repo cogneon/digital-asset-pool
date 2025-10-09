@@ -23,6 +23,16 @@ Für die Bühne verwenden wir zwei Kameras, Audio-/Videomixer und zwei Funk-Hand
 
 # Signalflussplan
 
+Test:
+
+```mermaid
+graph TD;
+    A-->B;
+    A-->C;
+    B-->D;
+    C-->D;
+```
+
 ```mermaid
 graph LR;
       Kamera1-->|HDMI|VideoMixer;
