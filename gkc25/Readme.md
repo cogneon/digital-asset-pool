@@ -23,15 +23,9 @@ Für die Bühne verwenden wir zwei Kameras, Audio-/Videomixer und zwei Funk-Hand
 
 # Signalflussplan
 
-Test:
+![](./gkc25-signalflussplan.png)
 
-```mermaid
-graph TD;
-    A-->B;
-    A-->C;
-    B-->D;
-    C-->D;
-```
+Mermaid-Code zum Weiterverwenden:
 
 ```mermaid
 graph LR;
