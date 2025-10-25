@@ -1,6 +1,6 @@
 Dieser Ordner enthält Cogneon-Ressourcen für das [GfWM KnowledgeCamp 2025](https://gfwm.de/gkc25) (#gkc25) in Berlin und online. Wir stellen als Sponsor Technik für die hybride Bühne bereit.
 
-- **Wann:** 23.-24.10.2022
+- **Wann:** 23.-24.10.2025
 - **Wo:** [frizzforum Berlin](https://www.frizzforum.de/)
 
 # BOM Technik Bühne
