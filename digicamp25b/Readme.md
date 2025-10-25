@@ -3,6 +3,12 @@ Dieser Ordner enthält Cogneon-Ressourcen für das DATEV DigiCamp am 24.10.2025,
 - **Wann:** 24.10.2025
 - **Wo:** DATEV IT Campus, Nürnberg
 
+# # Skizze Bühne
+
+Das Plenum mit Bühne wurde als Pop-Up in einem abgegrenzten Teil der Kantine aufgebaut.
+
+![](./digicamp25b-plenum.png)
+
 # BOM Technik Bühne
 
 Für die Bühne verwenden wir zwei Kameras, Audio-/Videomixer und zwei Funk-Handmikrofone:
